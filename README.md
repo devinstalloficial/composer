@@ -3,8 +3,8 @@ Configuration composer.json
 
 ```JSON
 {
-    "name": "luizpaulogroup/groupe001",
-    "description": "001",
+    "name": "luizpaulogroup/group001",
+    "description": "description",
     "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
