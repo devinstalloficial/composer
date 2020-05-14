@@ -3,14 +3,14 @@ Configuration composer.json
 
 ```JSON
 {
-    "name": "luizpaulogroup/group001",
+    "name": "your_name",
     "description": "description",
     "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
-            "name": "luizpaulogroup",
-            "email": "your_email",
+            "name": "name",
+            "email": "email",
             "role": "Developer",
             "homepage": "https://github.com/luizpaulogroup"
         }
