@@ -1,4 +1,4 @@
-# composer
+# Composer
 Configuration composer.json
 
 ```JSON
